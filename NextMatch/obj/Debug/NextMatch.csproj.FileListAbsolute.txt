@@ -1,0 +1,27 @@
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\bin\Debug\NextMatch.exe.config
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\bin\Debug\NextMatch.exe
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\bin\Debug\NextMatch.pdb
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\obj\Debug\NextMatch.Form1.resources
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\obj\Debug\NextMatch.Properties.Resources.resources
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\obj\Debug\NextMatch.csproj.GenerateResource.Cache
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\obj\Debug\NextMatch.exe
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\obj\Debug\NextMatch.pdb
+C:\Users\BaoTroy\Desktop\NextMatch\NextMatch\obj\Debug\NextMatch.csprojResolveAssemblyReference.cache
+C:\Users\BaoTroy\Desktop\PL\NextMatch\bin\Debug\Premier League.exe.config
+C:\Users\BaoTroy\Desktop\PL\NextMatch\bin\Debug\Premier League.exe
+C:\Users\BaoTroy\Desktop\PL\NextMatch\bin\Debug\Premier League.pdb
+C:\Users\BaoTroy\Desktop\PL\NextMatch\obj\Debug\NextMatch.Form1.resources
+C:\Users\BaoTroy\Desktop\PL\NextMatch\obj\Debug\NextMatch.Properties.Resources.resources
+C:\Users\BaoTroy\Desktop\PL\NextMatch\obj\Debug\NextMatch.csproj.GenerateResource.Cache
+C:\Users\BaoTroy\Desktop\PL\NextMatch\obj\Debug\Premier League.exe
+C:\Users\BaoTroy\Desktop\PL\NextMatch\obj\Debug\Premier League.pdb
+C:\Users\BaoTroy\Desktop\PL\NextMatch\obj\Debug\NextMatch.csprojResolveAssemblyReference.cache
+D:\PL\NextMatch\bin\Debug\Premier League.exe.config
+D:\PL\NextMatch\obj\Debug\Premier League.exe
+D:\PL\NextMatch\obj\Debug\Premier League.pdb
+D:\PL\NextMatch\bin\Debug\Premier League.exe
+D:\PL\NextMatch\bin\Debug\Premier League.pdb
+D:\PL\NextMatch\obj\Debug\NextMatch.csprojResolveAssemblyReference.cache
+D:\PL\NextMatch\obj\Debug\NextMatch.Form1.resources
+D:\PL\NextMatch\obj\Debug\NextMatch.Properties.Resources.resources
+D:\PL\NextMatch\obj\Debug\NextMatch.csproj.GenerateResource.Cache

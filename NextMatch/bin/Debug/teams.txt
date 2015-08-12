@@ -1,0 +1,82 @@
+﻿<teams season="2015-2016">
+	<team id="AVL">
+		<name>Aston Villa</name>
+		<stadium></stadium>
+	</team>
+	<team id="MUN">
+		<name>Man Utd</name>
+		<stadium></stadium>
+	</team>
+	<team id="SOU">
+		<name>Southampton</name>
+		<stadium></stadium>
+	</team>
+	<team id="EVE">
+		<name>Everton</name>
+		<stadium></stadium>
+	</team>
+	<team id="SUN">
+		<name>Sunderland</name>
+		<stadium></stadium>
+	</team>
+	<team id="NOR">
+		<name>Norwich</name>
+		<stadium></stadium>
+	</team>
+	<team id="SWA">
+		<name>Swansea</name>
+		<stadium></stadium>
+	</team>
+	<team id="NEW">
+		<name>Newcastle</name>
+		<stadium></stadium>
+	</team>
+	<team id="TOT">
+		<name>Tottenham</name>
+		<stadium></stadium>
+	</team>
+	<team id="STK">
+		<name>Stoke</name>
+		<stadium></stadium>
+	</team>
+	<team id="WAT">
+		<name>Watford</name>
+		<stadium></stadium>
+	</team>
+	<team id="WBA">
+		<name>West Brom</name>
+		<stadium></stadium>
+	</team>
+	<team id="WHU">
+		<name>West Ham</name>
+		<stadium></stadium>
+	</team>
+	<team id="LEI">
+		<name>Leicester</name>
+		<stadium></stadium>
+	</team>
+	<team id="CRY">
+		<name>Crystal Palace</name>
+		<stadium></stadium>
+	</team>
+	<team id="ARS">
+		<name>Arsenal</name>
+		<stadium></stadium>
+	</team>
+	<team id="MCI">
+		<name>Man City</name>
+		<stadium></stadium>
+	</team>
+	<team id="CHE">
+		<name>Chelsea</name>
+		<stadium></stadium>
+	</team>
+	<team id="LIV">
+		<name>Liverpool</name>
+		<stadium></stadium>
+	</team>
+	<team id="BOU">
+		<name>Bournemouth</name>
+		<stadium></stadium>
+	</team>
+</teams>
